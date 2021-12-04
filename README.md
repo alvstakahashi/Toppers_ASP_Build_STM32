@@ -54,10 +54,11 @@ VSCodeを利用した仮想化リアルタイムOS実演.pptx<br>
 　以上コピーできたら　exitで　dockerを終了します。<br>
 
 4.VSCodeでの読み込み<br>
-　VScode で　　本gitのルートの.devcontainer が置かれたディレクトリを<br>
-　指定して、左した　緑をクリックするとプルダウンがでてくるので<br>
+　VScode で　左下　緑をクリックするとプルダウンがでてくるので<br>
 　Open Folder in Container.. を選びます<br>
-　詳しい手順は以下を参照ください。ほぼ同様です。<br>
+　本gitのルートの.devcontainer が置かれたディレクトリを<br>
+　指定(.devcontainerではなく、その上です)します。<br>
+  詳しい手順は以下を参照ください。ほぼ同様です。<br>
 　「VSCodeを利用した仮想化リアルタイムOS実演.pptx」<br>
 　立ち上がって、ターミナルを起動して、ls OBJ で確認できればOKです。<br>
   VScode,JPGのようになればOKです。<br>
