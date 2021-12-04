@@ -11,6 +11,8 @@ dockerビルドするだけで、環境構築もカーネルのビルドも完�
 コンテナで動作するOS　ubuntu x86_64 <br>
 利用可能なツール　arm tool chain および　st-flash<br>
 toppersjp/armgcc-ubuntu:7-2018-q2　をベースにしています。<br>
+開発環境のみは以下のDockerイメージになります。<br>
+https://hub.docker.com/r/alvstakahashi/stm32toolchain <br>
 
 環境の前提条件<br>
 Windows10 64bit Docker Desktop インストール済み<br>
