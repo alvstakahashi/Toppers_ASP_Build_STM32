@@ -5,6 +5,9 @@ TOPPERS学習ボード用に開発環境を手軽に設定できるものです�
 dockerビルドするだけで、環境構築もカーネルのビルドも完了します。<br>
 また、そのあとの手順でVSCodeと連携する手順も記載しております。<br>
 
+改定履歴<br>
+2021.12.11 alvstakahashi/stm32toolchain:1 に変更しました。<br>
+
 仕様<br>
 対象ボード　STM32F401RE nucleo-64  (CortexM4Fになります。)<br>
 対象TOPPERSカーネル　TOPPERS/ASP<br>

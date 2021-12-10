@@ -1,5 +1,5 @@
 # Pull base image.
-FROM alvstakahashi/stm32toolchain
+FROM alvstakahashi/stm32toolchain:1
 
 WORKDIR /home/toppers
 
